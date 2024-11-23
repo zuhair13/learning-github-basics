@@ -1,30 +1,4 @@
 
-# تعلم أساسيات GitHub
-
-هذا المستودع مخصص لتعلم كيفية استخدام GitHub بطريقة سهلة وبسيطة.
-
-## محتوى المستودع
-
-- إنشاء مستودع جديد
-- تعديل الملفات وإضافتها
-- فهم نظام الفروع (Branches)
-- التعاون مع فريق العمل
-
-## الكاتب
-زهير
-
----
-Learning GitHub
-## الصور التوضيحية
-
-سيتم إضافة صور توضيحية هنا تشرح:
-- واجهة GitHub الرئيسية
-- كيفية إنشاء مستودع جديد
-- طريقة تحديث الملفات
-- أساسيات العمل المشترك
-
----
-Learning GitHub
 # Learning GitHub Basics
 
 This repository is my journey to learn GitHub fundamentals. Here I will document:
