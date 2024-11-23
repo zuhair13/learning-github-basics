@@ -15,6 +15,16 @@
 
 ---
 Learning GitHub
+## الصور التوضيحية
+
+سيتم إضافة صور توضيحية هنا تشرح:
+- واجهة GitHub الرئيسية
+- كيفية إنشاء مستودع جديد
+- طريقة تحديث الملفات
+- أساسيات العمل المشترك
+
+---
+Learning GitHub
 # Learning GitHub Basics
 
 This repository is my journey to learn GitHub fundamentals. Here I will document:
